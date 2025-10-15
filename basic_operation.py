@@ -1,0 +1,13 @@
+number1,number2 = 10,5
+addition = number1 + number2
+subtration = number1 - number2
+product = number2 * number1
+print("Addition of ",number1, " and ",number2," is ",addition)
+print("Subtracion of ",number1, " and ",number2," is ",subtration)
+print("Product of ",number1, " and ",number2," is ",product)
+
+
+
+
+
+
