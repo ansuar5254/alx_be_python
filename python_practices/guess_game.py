@@ -16,5 +16,5 @@ while(cho == 'y'):
     print(f"sorry, the numbere was {secret_num}")
  cho = input("do you want to contnue?(y/n)").lower()
  if cho == 'y':
-    secret_num = random.randint(1,10)
+    secret_num = random.randint(1,100)
 
